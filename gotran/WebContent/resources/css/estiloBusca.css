@@ -1,0 +1,21 @@
+@CHARSET "ISO-8859-1";
+
+.bods{
+	background-color: #D7EBFF;
+}
+.optTr{
+	background-color: #ffffff;
+    width: 400px;
+}
+
+.hoe-left-header {
+    background: #04a645 none repeat scroll 0 0;
+    float: left;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 50px;
+    position: absolute;
+    text-align: center;
+    width: 230px;
+    z-index: 999;
+}
